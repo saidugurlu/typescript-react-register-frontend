@@ -1,0 +1,1 @@
+## Create TypeScript React site with session-cookie authentication/authorization and email registration
